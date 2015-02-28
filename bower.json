@@ -1,0 +1,19 @@
+{
+  "name": "sosuke-k.github.com",
+  "version": "0.0.0",
+  "homepage": "https://sosuke-k.github.io",
+  "authors": [
+    "sosuke-k <snoopies.drum@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "google-streetview-pano": "googlewebcomponents/google-streetview-pano#~0.1.1"
+  }
+}
