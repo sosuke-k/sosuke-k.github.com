@@ -14,6 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "google-streetview-pano": "googlewebcomponents/google-streetview-pano#~0.1.1"
+    "google-streetview-pano": "googlewebcomponents/google-streetview-pano#~0.1.1",
+    "voice-elements": "~0.2.0"
   }
 }
